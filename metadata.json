@@ -1,0 +1,5 @@
+{
+  "name": "MuseForge",
+  "description": "An AI-powered music generation app that creates lyrics and a vocal track from a text prompt. Just type your idea for a song and let the AI compose a unique piece for you, complete with lyrics and synthesized audio.",
+  "requestFramePermissions": []
+}
